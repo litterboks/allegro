@@ -1,0 +1,1 @@
+g++ Lesson1.cpp -o Lesson1 -lallegro 
